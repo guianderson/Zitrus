@@ -1,0 +1,48 @@
+{
+  "name": "Zitrus",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "@vue/test-utils": "^2.0.0-rc.17",
+    "axios": "^0.24.0",
+    "core-js": "^3.6.5",
+    "downloadjs": "^1.4.7",
+    "jquery": "^3.6.0",
+    "moment": "^2.29.1",
+    "v-mask": "^2.3.0",
+    "vee-validate": "^3.4.14",
+    "vue": "^2.6.11",
+    "vue-class-component": "^7.2.3",
+    "vue-multilanguage": "^4.0.18",
+    "vue-property-decorator": "^9.1.2",
+    "vue-router": "^3.2.0",
+    "vue-the-mask": "^0.11.1",
+    "vuetify": "^2.4.0",
+    "vuetify-datetime-picker": "^2.1.1",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/vue": "^2.0.0",
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-typescript": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "sass": "~1.32.0",
+    "sass-loader": "^10.0.0",
+    "typescript": "~4.1.5",
+    "vue-cli-plugin-vuetify": "~2.4.4",
+    "vue-template-compiler": "^2.6.11",
+    "vuetify-loader": "^1.7.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
